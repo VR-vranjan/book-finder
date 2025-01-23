@@ -1,0 +1,18 @@
+//online book review site
+a login page appears :with specific id and password
+a home page will appear and will panel options like:home, contact us, 
+homepage will contain 4 genre: vedic ,astronomy ,biography ,
+after choosing any genre, the book options will appear ....with their review button
+on clicking each review,all information realted to that book will be displayed.
+
+
+after this develop this project into dynamic one by adding backened part
+creating a signup page too and storing all visitors account .
+now if a book viewed,store that history in that visitor's profile.
+
+
+
+//this line will redirect the window or document to homepage.html
+document.location.assign("homepage.html");
+or
+window.location.assign("homepage.html");

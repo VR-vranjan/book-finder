@@ -1,0 +1,55 @@
+body{
+    background-image: url("log.jpg");
+    background-position: center;
+    height:800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+#container{
+    margin-top: 200px;
+    padding:50px;
+    border-radius: 50px;
+    background-color: aliceblue;
+    width: 480px;
+    height: 350px;
+    margin-left:470px;
+    background-color:whitesmoke;
+    opacity: 90%;
+    display:grid;
+    text-align: center;
+    display: block;
+    border-color: black;
+    border-style: solid;
+}
+h3{
+    font-size: 40px;
+}
+#user{
+    height: 30px;
+    width:300px;
+    text-align: center;
+    border-radius: 40px;
+}
+#password{
+    height: 30px;
+    width:300px;
+    text-align: center;
+    margin-top: 35px;
+    border-radius: 40px;
+    
+}
+#login-btn{
+    margin-top: 35px;
+    margin-left: 5px;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: rgb(137, 69, 40);
+    color: white;
+    font-size: 25px;
+    border-color: black;
+    border-style: solid;
+    
+}
